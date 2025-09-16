@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225502_LeKhanhVinh_Pattern01_AbstractFactory", "DPM225502_LeKhanhVinh_Pattern01_AbstractFactory\DPM225502_LeKhanhVinh_Pattern01_AbstractFactory.csproj", "{8F16602E-D7BB-4998-BD5F-ED7A826B7A4F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225502_LeKhanhVinh_Real01_AbstractFactory", "WinFormsApp1DPM225502_LeKhanhVinh_Pattern01_Builder\DPM225502_LeKhanhVinh_Real01_AbstractFactory.csproj", "{979BB405-975D-4B6A-8BE1-E5B03F90A6E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPM225502_LeKhanhVinh_Real01_AbstractFactory", "DPM225502_LeKhanhVinh_Real01_AbstractFactory\DPM225502_LeKhanhVinh_Real01_AbstractFactory.csproj", "{979BB405-975D-4B6A-8BE1-E5B03F90A6E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225502_LeKhanhVinh_MyWorld01_AbstractFactory", "ConsoleApp1\DPM225502_LeKhanhVinh_MyWorld01_AbstractFactory.csproj", "{712324DC-AA86-4330-9776-9EE5F998DB26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225502_LeKhanhVinh_MyWorld01_AbstractFactory", "DPM225502_LeKhanhVinh_MyWorld01_AbstractFactory\DPM225502_LeKhanhVinh_MyWorld01_AbstractFactory.csproj", "{712324DC-AA86-4330-9776-9EE5F998DB26}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
