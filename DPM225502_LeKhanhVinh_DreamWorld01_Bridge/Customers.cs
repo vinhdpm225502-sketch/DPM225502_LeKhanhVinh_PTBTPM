@@ -11,10 +11,10 @@ namespace DPM225502_LeKhanhVinh_DreamWorld01_Bridge
         public override void ShowAll()
         {
             // Add separator lines
-            WriteLine();
-            WriteLine("------------------------");
+            Console.WriteLine();
+            Console.WriteLine("------------------------");
             base.ShowAll();
-            WriteLine("------------------------");
+            Console.WriteLine("------------------------");
         }
     }
 }
