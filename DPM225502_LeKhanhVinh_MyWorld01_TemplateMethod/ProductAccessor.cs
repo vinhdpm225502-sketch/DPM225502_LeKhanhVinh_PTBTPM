@@ -20,12 +20,12 @@ namespace DPM225502_LeKhanhVinh_MyWorld01_TemplateMethod
         }
         public override void Process(int top)
         {
-            WriteLine("Products ---- ");
+            Console.WriteLine("Products ---- ");
             for (int i = 0; i < top; i++)
             {
-                WriteLine(Items[i].ProductName);
+                Console.WriteLine(Items[i].ProductName);
             }
-            WriteLine();
+            Console.WriteLine();
         }
     }
 }

@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225502_LeKhanhVinh_Patte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225502_LeKhanhVinh_Real01_TemplateMethod", "DPM225502_LeKhanhVinh_Real01_TemplateMethod\DPM225502_LeKhanhVinh_Real01_TemplateMethod.csproj", "{1A4BD18E-E27F-4A2B-8CFA-C9E5F5C22576}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225502_LeKhanhVinh_MyWorld01_TemplateMethod", "DPM225502_LeKhanhVinh_MyWorld01_TemplateMethod\DPM225502_LeKhanhVinh_MyWorld01_TemplateMethod.csproj", "{D67BC814-0AF0-47B6-A460-F2FB3B4779BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -425,6 +427,10 @@ Global
 		{1A4BD18E-E27F-4A2B-8CFA-C9E5F5C22576}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A4BD18E-E27F-4A2B-8CFA-C9E5F5C22576}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A4BD18E-E27F-4A2B-8CFA-C9E5F5C22576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67BC814-0AF0-47B6-A460-F2FB3B4779BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BC814-0AF0-47B6-A460-F2FB3B4779BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BC814-0AF0-47B6-A460-F2FB3B4779BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BC814-0AF0-47B6-A460-F2FB3B4779BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -493,6 +499,7 @@ Global
 		{F01C6BC5-5D96-4050-AF86-FDD27BBE5CF7} = {6EE06EED-7B5E-4C1A-B0F2-F395E8485FD3}
 		{500B67E3-891A-484A-9836-A2E694C52412} = {F9DD85EC-BD12-471E-BF5A-D81E0C7AE251}
 		{1A4BD18E-E27F-4A2B-8CFA-C9E5F5C22576} = {F9DD85EC-BD12-471E-BF5A-D81E0C7AE251}
+		{D67BC814-0AF0-47B6-A460-F2FB3B4779BC} = {F9DD85EC-BD12-471E-BF5A-D81E0C7AE251}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3289B973-82E3-4E47-A8EF-3F5D9A279225}
