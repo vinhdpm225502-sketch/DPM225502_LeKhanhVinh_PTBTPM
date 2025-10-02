@@ -17,5 +17,5 @@ namespace DPM225502_LeKhanhVinh_Pattern01_Decorator
         void AddedBehavior()
         {
         }
-    }x`
+    }
 }
