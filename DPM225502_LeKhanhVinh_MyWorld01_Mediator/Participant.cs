@@ -20,7 +20,7 @@ namespace DPM225502_LeKhanhVinh_MyWorld01_Mediator
         // Receive message from participant
         public virtual void Receive(string from, string message)
         {
-            WriteLine($"{from} to {Name}: '{message}'");
+            Console.WriteLine($"{from} to {Name}: '{message}'");
         }
     }
 }
